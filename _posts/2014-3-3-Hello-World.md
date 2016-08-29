@@ -19,7 +19,3 @@ My classroom experience so far has been quite positive. Professor Downing emphas
 
 title: Pick of the Week
 My link of the week is a tutorial about Git. The company I worked for this summer transitioned from Accurev to Git and I found that this tutorial was pretty simple and made learning git significantly easier. https://www.codecademy.com/learn/learn-git
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
